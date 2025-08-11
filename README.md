@@ -32,9 +32,3 @@ It’s built using [`discord.py`](https://pypi.org/project/discord.py/) and desi
 | `!unlock` | Unlocks current channel | Manage Channels |
 
 ---
-
-## Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/desiqred/AutoModX.git
-   cd AutoModX
