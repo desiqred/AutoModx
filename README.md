@@ -36,5 +36,5 @@ It’s built using [`discord.py`](https://pypi.org/project/discord.py/) and desi
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/AutoModX.git
+   git clone https://github.com/desiqred/AutoModX.git
    cd AutoModX
